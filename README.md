@@ -2,10 +2,9 @@
 <html>
 
 
-  <body style="background-color: lightblue;">
-    <h1>Hello Welcome to my Website :)</h1>
+  <body>
+    <h1>Hi there, I am coding bot</h1>
     <br/>
-    <h2>👋 Hi, I’m @ athul yesudas</h2>
     <h2>👀 I’m interested in ...data analysis</h2>
     <h2>🌱 I’m currently learning ...data science</h2>
     <h2>💞️ I’m looking to collaborate on ...data science projects, real time data science projects</h2>
