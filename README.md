@@ -1,12 +1,7 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="description" content="This is my first website">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Athul Yesudas</title>
 
-  </head>
+
   <body style="background-color: lightblue;">
     <h1>Hello Welcome to my Website :)</h1>
     <br/>
