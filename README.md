@@ -17,13 +17,6 @@
     <h2>📫 How to reach me ...athulyesudas321@gmail.com</h2>
     <h2>👓 Want to know more about me ...click on the following link</h2>
      
-    <br>
-    <br>
-    
-    
-    <a href="about_me.html"><h2>About Me</h2></a>
-    <a href="about_website.html"><h2>About This Website</h2></a>
-    <a href="other_websites.html"><h2>My Other Websites</h2></a>
 
   </body>
 </html>
