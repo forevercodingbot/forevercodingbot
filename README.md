@@ -4,16 +4,10 @@
 
   <body>
     <h1>Hi there, I am coding bot</h1>
-    <br/>
-    <h2>👀 I’m interested in ...data analysis</h2>
-    <h2>🌱 I’m currently learning ...data science</h2>
-    <h2>💞️ I’m looking to collaborate on ...data science projects, real time data science projects</h2>
-    <h2>📫 How to reach me ...athulyesudas321@gmail.com</h2>
-    <h2>👓 Want to know more about me ...click on the following link</h2>
 
     
-    <img align="right" width="200" src="https://github.com/athulyesudas/Animated-SVG/blob/main/Animated%20Cat/cat.svg" />
-<img align="center" alt="athulyesudas Github Stats" src="https://github-readme-stats.vercel.app/api?username=athulyesudas&show_icons=true&hide_border=true&theme=dracula" />
+<img align="right" width="200" src="https://github.com/athulyesudas/Animated-SVG/blob/main/Animated%20Cat/cat.svg" />
+<img align="center" alt="athulyesudas Github Stats" src="https://github-readme-stats.vercel.app/api?username=forevercodingbot&show_icons=true&hide_border=true&theme=dracula" />
 <br>
 
 
@@ -37,7 +31,7 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=athulyesudas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="athulyesudas" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=forevercodingbot&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="forevercodingbot" /></p>
 
   </body>
 </html>
