@@ -5,10 +5,7 @@
   <body>
     <h1>Hi there, I am coding bot</h1>
 
-<p align="left">    
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/python.svg" alt="amplify" /> </a> 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/vscode.svg" alt="android" /> </a>   
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/vscode.svg" alt="dart"/> </a>  
+<p><img align="center" width="200" src="https://github.com/athulyesudas/Animated-SVG/blob/main/Animated%20Cat/cat.svg" /><img align="center" width="200" src="https://github.com/athulyesudas/Animated-SVG/blob/main/Animated%20Cat/cat.svg" /><img align="center" width="200" src="https://github.com/athulyesudas/Animated-SVG/blob/main/Animated%20Cat/cat.svg" /></a>  
 </p>
 
 <br>
