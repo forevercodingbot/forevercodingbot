@@ -6,9 +6,12 @@
     <h1>Hi there, I am coding bot</h1>
 
     
-<img align="right" width="200" src="https://github.com/athulyesudas/Animated-SVG/blob/main/Animated%20Cat/cat.svg" />
-<img align="center" alt="athulyesudas Github Stats" src="https://github-readme-stats.vercel.app/api?username=forevercodingbot&show_icons=true&hide_border=true&theme=dracula" />
-<br>
+<img align="left" width="200" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/python.svg" />
+<img align="left" alt="athulyesudas Github Stats" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/vscode.svg" />
+<img align="left" alt="athulyesudas Github Stats" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/vscode.svg" />
+<img align="right" width="200" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/python.svg" />
+
+    <br>
 
 
 <h3 align="left">Languages and Tools:</h3>
