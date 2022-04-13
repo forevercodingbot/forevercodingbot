@@ -5,13 +5,13 @@
   <body>
     <h1>Hi there, I am coding bot</h1>
 
-    
-<img align="left" width="200" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/python.svg" />
-<img align="left" alt="athulyesudas Github Stats" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/vscode.svg" />
-<img align="left" alt="athulyesudas Github Stats" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/vscode.svg" />
-<img align="right" width="200" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/python.svg" />
+<p align="left">    
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/python.svg" alt="amplify" /> </a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/vscode.svg" alt="android" /> </a>   
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/vscode.svg" alt="dart"/> </a>  
+</p>
 
-    <br>
+<br>
 
 
 <h3 align="left">Languages and Tools:</h3>
