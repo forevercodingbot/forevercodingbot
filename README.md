@@ -98,6 +98,61 @@ Copyright (c) Microsoft Corporation. All rights reserved.
 Licensed under the [MIT](LICENSE.txt) license.
 
 
+<p>
+ATHUL YESUDAS | +91 9497634460 | athulyesudas321@gmail.com | https://athul.netlify.app/
+https://github.com/athulyesudas | https://www.linkedin.com/in/athulyesudas 
+
+
+TECHNICAL SKILLS 
+Analytical Tools: Python, R Programming, Jupyter Notebook, Excel, Pandas, Numpy, Regex 
+Machine Learning Tools: Scikit-Learn, Tensorflow
+Visualization Tools: Matplotlib, Seaborn, Word Cloud, Power BI
+Web Scraping tool: BeautifulSoup
+Database: MySQL
+Web Deployment Services: Heroku, Netlify, Vercel, Firebase
+Code Editor: VS Code
+
+
+ACADEMIC PROJECTS  
+App for Car Price Prediction,                                                                                                                     March 2022 – April 2022 
+•	Goal of the project was to create a web app to predict the cost of car with various user inputs.
+•	Python is used for all the data cleaning and data preprocessing.
+•	Hyperparameter Tuning is done using RandomizedSearchCV and GridSearchCV.
+•	ExtraTreesRegressor is used for the model training and got an accuracy of 91 percentage.
+•	Flask is used for creating web framework for our model.
+•	Heroku is used for the deploying our web application
+•	Link to the app: https://carrpred.herokuapp.com/ 
+
+Future Sales Prediction,        							                      Feb 2022 – March 2022
+•	Goal of the project was to forecast future sales based on the sales of previous days.
+•	Used GoogleTrans API for translating all texts from Russian to English.
+•	Python is used for all the data cleaning and data preprocessing.
+•	RandomForestRegressor is used for training model along with Adaboost and got accuracy of 94 percentage.
+
+Flight Ticket fare Prediction,       							        Feb 2022 – March 2022
+•	Goal of the project was to create a web app to predict the flight ticket fare for different destinations and arrival time.
+•	Python is used for all the data cleaning and data preprocessing.
+•	Feature selection done with RandomizedSearchCV.
+•	Tried different models from scikit-learn and RandomForestRegressor gave the best accuracy of 79 percentage.
+•	Flask is used for creating web framework for our model.
+•	Heroku is used for the deploying our web application
+•	Link to the app: https://flighttfareprediction.herokuapp.com/
+
+IPL First Innings Score Prediction 	 	                                                                      Jan 2022 – Feb 2022	                                
+•	Goal of the project was to create a web app to predict IPL first innings score.
+•	Python is used for all the data cleaning and data preprocessing.
+•	Linear Regression is used for the model training and got an accuracy of 75 percentage.
+•	Flask is used for creating web framework for our model.
+•	Heroku is used for the deploying our web application.
+
+EDUCATION 
+EduBridge India. 
+Certification course on Data Science.   	 	 	                                                         Nov 2021 – Present 
+Carmel College of Engineering and Technology, Alappuzha, Kerala. 	 	 	 	 	     
+B-Tech in Civil Engineering. 	 	 	 	 	 	 	 	             Aug 2015 – Sep 2019
+
+</p>
+
     
     
 
