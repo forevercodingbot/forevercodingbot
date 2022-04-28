@@ -1,3 +1,5 @@
+![Alt Text](https://github.com/forevercodingbot/forevercodingbot/tree/main/images/giphy.gif)
+
 <!DOCTYPE html>
 <html>
 
