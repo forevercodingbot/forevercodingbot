@@ -1,4 +1,4 @@
-![alt text](https://github.com/forevercodingbot/images/blob/main/button_hi-there-welcome-to-my-profile.png?raw=true)
+![alt text](https://github.com/forevercodingbot/images/blob/main/welcome_profile.png?raw=true)
 
 # I'm Athul Yesudas 👋 
 
