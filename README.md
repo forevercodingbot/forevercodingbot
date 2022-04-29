@@ -7,16 +7,8 @@
 
 ![alt text](https://github.com/forevercodingbot/images/blob/main/15.png?raw=true)
 
-![alt text](https://github.com/forevercodingbot/images/blob/main/16.png?raw=true)
-
 ![alt text](https://github.com/forevercodingbot/images/blob/main/17.png?raw=true)
 
-# I'm Athul Yesudas 👋 
-
-- 👀 I’m interested in ...data analysis
-- 🌱 I’m currently learning ...data science
-- 💞️ I’m looking to collaborate on ...data science projects, real time data science projects
-- 📫 How to reach me ...athulyesudas321@gmail.com
 
 <img align="right" width="200" src="https://github.com/athulyesudas/Animated-SVG/blob/main/Animated%20Cat/cat.svg" />
 <img align="center" alt="athulyesudas Github Stats" src="https://github-readme-stats.vercel.app/api?username=athulyesudas&show_icons=true&hide_border=true&theme=dracula" />
