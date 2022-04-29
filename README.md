@@ -5,7 +5,6 @@
 
 ![alt text](https://github.com/forevercodingbot/images/blob/main/14.png?raw=true)
 
-![alt text](https://github.com/forevercodingbot/images/blob/main/17.png?raw=true)
 
 
 <img align="right" width="200" src="https://github.com/athulyesudas/Animated-SVG/blob/main/Animated%20Cat/cat.svg" />
