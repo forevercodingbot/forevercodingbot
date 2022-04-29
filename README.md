@@ -38,7 +38,6 @@
 
 ![alt text](https://github.com/forevercodingbot/images/blob/main/4.gif?raw=true)
 
-![alt text](https://github.com/forevercodingbot/images/blob/main/3.gif?raw=true)
 
 <br>
 <p align="left"> <h3 align="left">Languages and Tools: </h3></p>
