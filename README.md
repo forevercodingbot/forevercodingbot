@@ -1,4 +1,4 @@
-![alt text](https://github.com/forevercodingbot/images/blob/main/button_hi-there-welcome-to-my-profile.png)
+![alt text](https://github.com/forevercodingbot/images/blob/main/button_hi-there-welcome-to-my-profile.png?raw=true)
 
 <img src="https://github.com/forevercodingbot/images/blob/main/button_hi-there-welcome-to-my-profile.png"/>
 
