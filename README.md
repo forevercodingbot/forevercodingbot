@@ -1,6 +1,16 @@
 
 ![alt text](https://github.com/forevercodingbot/images/blob/main/12.png?raw=true)
 
+![alt text](https://github.com/forevercodingbot/images/blob/main/13.png?raw=true)
+
+![alt text](https://github.com/forevercodingbot/images/blob/main/14.png?raw=true)
+
+![alt text](https://github.com/forevercodingbot/images/blob/main/15.png?raw=true)
+
+![alt text](https://github.com/forevercodingbot/images/blob/main/16.png?raw=true)
+
+![alt text](https://github.com/forevercodingbot/images/blob/main/17.png?raw=true)
+
 # I'm Athul Yesudas 👋 
 
 - 👀 I’m interested in ...data analysis
