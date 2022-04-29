@@ -5,8 +5,6 @@
 
 ![alt text](https://github.com/forevercodingbot/images/blob/main/14.png?raw=true)
 
-![alt text](https://github.com/forevercodingbot/images/blob/main/15.png?raw=true)
-
 ![alt text](https://github.com/forevercodingbot/images/blob/main/17.png?raw=true)
 
 
