@@ -1,4 +1,6 @@
-# Hi there, I'm Athul Yesudas 👋 
+![alt text](https://github.com/forevercodingbot/images/blob/main/button_hi-there-welcome-to-my-profile.png?raw=true)
+
+# I'm Athul Yesudas 👋 
 
 ## Happy to see you on my profile page! 
 
@@ -49,7 +51,7 @@
 
 https://github.com/athulyesudas/athulyesudas/blob/main/Images/App%20Buttons/car_price_prediction.png
 
-![alt text](https://github.com/forevercodingbot/images/blob/main/button_hi-there-welcome-to-my-profile.png?raw=true)
+
 
 
 
