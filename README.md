@@ -10,8 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/athulyesudas">
-  <img height="192em" src="https://github-readme-stats.vercel.app/api?username=athulyesudas&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="192em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athulyesudas&layout=compact&langs_count=7&hide_border=true&theme=dracula"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=athulyesudas&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athulyesudas&layout=compact&langs_count=7&hide_border=true&theme=dracula"/>
 </div>
 
 
