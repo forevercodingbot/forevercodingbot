@@ -1,9 +1,12 @@
-![alt text](https://github.com/forevercodingbot/images/blob/main/green.png?raw=true)
+![alt text](https://github.com/athulyesudas/athulyesudas/blob/main/Images/decoratives/welcome_tab.png?raw=true)
+
+<a href="https://athul.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/decoratives/website_cover2.webp" alt="gcp"/> </a>
 
 
-
-<img align="right" width="200" src="https://github.com/athulyesudas/Animated-SVG/blob/main/Animated%20Cat/cat.svg" />
 <img align="center" alt="athulyesudas Github Stats" src="https://github-readme-stats.vercel.app/api?username=athulyesudas&show_icons=true&hide_border=true&theme=dracula" />
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=athulyesudas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="athulyesudas" /></p>
+
 <br>
 
 
@@ -31,20 +34,26 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=athulyesudas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="athulyesudas" /></p>
 
-![alt text](https://github.com/forevercodingbot/images/blob/main/4.gif?raw=true)
-
+![alt text](https://github.com/athulyesudas/athulyesudas/blob/main/Images/decoratives/matrix.gif?raw=true)
 
 <br>
-<p align="left"> <h3 align="left">Languages and Tools: </h3></p>
 
+<h3 align="left">Web Apps:</h3>
 
-<a href="https://carrpred.herokuapp.com/"><h2>![alt text](https://github.com/athulyesudas/athulyesudas/blob/main/Images/App%20Buttons/car_price_prediction.png?raw=true)</h2></a>
-  
-</p>
+<a href="https://carrpred.herokuapp.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/App%20Buttons/car_price_prediction.png" alt="gcp"/> </a>
+<br>
 
-https://github.com/athulyesudas/athulyesudas/blob/main/Images/App%20Buttons/car_price_prediction.png
+<h3 align="left">Projects:</h3>
 
+<a href="https://github.com/athulyesudas/Car-Price-Prediction" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/App%20Buttons/car_price_prediction.png" alt="gcp"/> </a>
 
+<a href="https://github.com/athulyesudas/Edubridge-Data-Analytics/tree/main/Projects/US%20Air%20Pollution%20EDA%20(Python)" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/App%20Buttons/eda-on-us-air-pollution.png" alt="gcp"/> </a>
+
+<a href="https://github.com/athulyesudas/Edubridge-Data-Analytics/tree/main/Projects/Military%20Expenditure%20EDA%20(RStudio)" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/App%20Buttons/eda-on-military-expenditure.png" alt="gcp"/> </a>
+
+<a href="https://github.com/athulyesudas/Edubridge-Data-Analytics/tree/main/Projects/Money%20Control%20-%20Web%20Scraping%20(Python)" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/App%20Buttons/web-scraping-stocks.png" alt="gcp"/> </a>
+
+<a href="https://github.com/athulyesudas/Edubridge-Data-Analytics/tree/main/Projects/Whiskey%20Exchange%20-%20Web%20Scraping%20(Python)" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/App%20Buttons/web-scraping-whiskey-exchange.png" alt="gcp"/> </a>
 
 
 
