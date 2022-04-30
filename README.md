@@ -2,7 +2,8 @@
 
 <a href="https://athul.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/decoratives/website_cover2.webp" alt="gcp"/> </a>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=athulyesudas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="athulyesudas" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=athulyesudas&show_icons=true&locale=en&layout=compact&theme=tokyonight"
+      height="1000" alt="athulyesudas"/>
 
 
 <img align="center" alt="athulyesudas Github Stats" src="https://github-readme-stats.vercel.app/api?username=athulyesudas&show_icons=true&hide_border=true&theme=dracula" />
