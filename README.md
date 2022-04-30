@@ -8,7 +8,6 @@
 
 <img align="center" alt="athulyesudas Github Stats" src="https://github-readme-stats.vercel.app/api?username=athulyesudas&show_icons=true&hide_border=true&theme=dracula" width="450" />
 
-<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
@@ -30,7 +29,6 @@
 <a href="https://cassandra.apache.org/_/index.html" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/cassandra.svg" alt="gcp"/> </a>
 </p>
 
-<br>
 
 <h3 align="left">Web Apps:</h3>
 
