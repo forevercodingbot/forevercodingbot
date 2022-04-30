@@ -8,10 +8,7 @@
 
 <img align="center" alt="athulyesudas Github Stats" src="https://github-readme-stats.vercel.app/api?username=athulyesudas&show_icons=true&hide_border=true&theme=dracula" width="450" />
 
-
-
 <br>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
