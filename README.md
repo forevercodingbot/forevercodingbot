@@ -13,7 +13,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">  
+<div align="center">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/python.svg" alt="amplify" /> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/vscode.svg" alt="android" /> </a>   
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/pandas.svg" alt="dart"/> </a> 
@@ -30,7 +30,7 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/firebase.svg" alt="gcp"/> </a>
 <a href="https://vercel.com/dashboard" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/vercel.svg" alt="gcp"/> </a>
 <a href="https://cassandra.apache.org/_/index.html" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/cassandra.svg" alt="gcp"/> </a>
-</p>
+</div>
 
 <h3 align="left">Apps:</h3>
 
