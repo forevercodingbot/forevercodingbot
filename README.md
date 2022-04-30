@@ -12,6 +12,10 @@
   <img height="180.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athulyesudas&layout=compact&langs_count=7&hide_border=true&theme=dark"/>
 </div>
 
+<div align="center">
+<img src="https://github.com/forevercodingbot/forevercodingbot/blob/main/images/hihi2.png" alt="gcp"/>
+</div>  
+  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/python.svg" alt="amplify" /> </a> 
