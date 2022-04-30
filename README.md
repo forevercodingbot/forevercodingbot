@@ -1,6 +1,6 @@
 <div align="center">
-![alt text](https://github.com/athulyesudas/athulyesudas/blob/main/Images/decoratives/welcome_tab.png?raw=true)
-  </div>
+<img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/decoratives/welcome_tab.png" alt="gcp"/>
+</div>
 
 <div align="center">
 <a href="https://athul.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/decoratives/website_cover2.webp" alt="gcp"/> </a>
