@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/forevercodingbot/forevercodingbot/blob/main/images/were1.png" alt="gcp"/>
+<img src="https://github.com/forevercodingbot/forevercodingbot/blob/main/images/were2.png" alt="gcp"/>
 </div>
 
 <div align="center">
@@ -13,8 +13,8 @@
 </div>
       
 <div align="center">
-<img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/decoratives/footer.png" alt="gcp"/>
-</div>  
+<img src="https://github.com/forevercodingbot/forevercodingbot/blob/main/images/were3.png" alt="gcp"/>
+</div> 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
@@ -49,4 +49,40 @@
 
 <a href="https://github.com/athulyesudas/Edubridge-Data-Analytics/tree/main/Projects/Money%20Control%20-%20Web%20Scraping%20(Python)" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/App%20Buttons/web-scraping-stocks.png" alt="gcp"/> </a>
 
+      
+      .css-button-arrow--black {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  overflow: hidden;
+  border-radius: 5px;
+  border: none;
+  background-color: #343a40
+}
+.css-button-arrow--black:hover {
+  border-radius: 5px;
+  padding-right: 24px;
+  padding-left:8px;
+}
+.css-button-arrow--black:hover:after {
+  opacity: 1;
+  right: 10px;
+}
+.css-button-arrow--black:after {
+  content: "\00BB";
+  position: absolute;
+  opacity: 0;
+  font-size: 20px;
+  line-height: 40px;
+  top: 0;
+  right: -20px;
+  transition: 0.4s;
+}
 
