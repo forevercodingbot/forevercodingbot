@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/forevercodingbot/forevercodingbot/blob/main/images/hihi7.png" alt="gcp"/>
+<img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/decoratives/header.png" alt="gcp"/>
 </div>
 
 <div align="center">
@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/forevercodingbot/forevercodingbot/blob/main/images/hihi6.png" alt="gcp"/>
+<img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/decoratives/footer.png" alt="gcp"/>
 </div>  
   
 <h3 align="left">Languages and Tools:</h3>
