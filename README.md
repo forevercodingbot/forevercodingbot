@@ -6,7 +6,7 @@
       width="350" alt="athulyesudas"/>
 
 
-<img align="center" alt="athulyesudas Github Stats" src="https://github-readme-stats.vercel.app/api?username=athulyesudas&show_icons=true&hide_border=true&theme=dracula" width="400" />
+<img align="center" alt="athulyesudas Github Stats" src="https://github-readme-stats.vercel.app/api?username=athulyesudas&show_icons=true&hide_border=true&theme=dracula" width="450" />
 
 
 
