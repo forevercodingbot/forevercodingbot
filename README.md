@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/forevercodingbot/forevercodingbot/blob/main/images/hihi3.png" alt="gcp"/>
+<img src="https://github.com/forevercodingbot/forevercodingbot/blob/main/images/hihi4.png" alt="gcp"/>
 </div>  
   
 <h3 align="left">Languages and Tools:</h3>
