@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/forevercodingbot/forevercodingbot/blob/main/images/were2.png" alt="gcp"/>
+<img src="https://github.com/forevercodingbot/forevercodingbot/blob/main/images/were4.png" alt="gcp"/>
 </div>
 
 <div align="center">
