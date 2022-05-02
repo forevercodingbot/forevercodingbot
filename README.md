@@ -16,11 +16,11 @@
 <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/decoratives/footer.png" alt="gcp"/>
 </div>  
   
-<h1>Web Apllications:/h1>
+<h1>Web Apllications:</h1>
 <div align="center">
 <img src="https://github.com/forevercodingbot/images/blob/main/112.png" alt="gcp"/>
 </div>
-<h1>Projects</h1>    
+<h1>Projects:</h1>    
 <div align="center">
 <img src="https://github.com/forevercodingbot/images/blob/main/112.png" alt="gcp"/>
 </div>
