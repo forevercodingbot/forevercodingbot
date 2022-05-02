@@ -68,20 +68,3 @@
 <a href="https://cassandra.apache.org/_/index.html" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/cassandra.svg" alt="gcp"/> </a>
 </p>
 
-<h3 align="left">Apps:</h3>
-
-<a href="https://carrpred.herokuapp.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/App%20Buttons/car_price_prediction.png" alt="gcp"/> </a>
-<br>
-
-<h3 align="left">Projects:</h3>
-
-<div align="centre">
-<a href="https://github.com/athulyesudas/Car-Price-Prediction" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/App%20Buttons/car_price_prediction.png" alt="gcp"/> </a>
-</div>
-<div align="centre">
-<a href="https://github.com/athulyesudas/Edubridge-Data-Analytics/tree/main/Projects/Military%20Expenditure%20EDA%20(RStudio)" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/App%20Buttons/eda-on-military-expenditure.png" alt="gcp"/> </a>
-</div>
-<div align="centre">
-<a href="https://github.com/athulyesudas/Edubridge-Data-Analytics/tree/main/Projects/Money%20Control%20-%20Web%20Scraping%20(Python)" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/App%20Buttons/web-scraping-stocks.png" alt="gcp"/> </a>
-</div>
-
