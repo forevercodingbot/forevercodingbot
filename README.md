@@ -16,18 +16,11 @@
 <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/decoratives/footer.png" alt="gcp"/>
 </div>  
   
-<div align="center">
-<img src="https://github.com/forevercodingbot/images/blob/main/111.png" alt="gcp"/>
-</div>
+<h1>Web Apllications:/h1>
 <div align="center">
 <img src="https://github.com/forevercodingbot/images/blob/main/112.png" alt="gcp"/>
 </div>
-<div align="center">
-<img src="https://github.com/forevercodingbot/images/blob/main/113.png" alt="gcp"/>
-</div>      
-<div align="center">
-<img src="https://github.com/forevercodingbot/images/blob/main/114.png" alt="gcp"/>
-</div> 
+<h1>Projects</h1>    
 <div align="center">
 <img src="https://github.com/forevercodingbot/images/blob/main/112.png" alt="gcp"/>
 </div>
@@ -67,4 +60,6 @@
 <a href="https://vercel.com/dashboard" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/vercel.svg" alt="gcp"/> </a>
 <a href="https://cassandra.apache.org/_/index.html" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/cassandra.svg" alt="gcp"/> </a>
 </p>
+      
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
 
