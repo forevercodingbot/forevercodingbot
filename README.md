@@ -17,13 +17,13 @@
     <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/decoratives/footer.png" alt="gcp"/>
 </div>  
 
-<h3 align="left">Apps:</h3>
+<h2 align="left">Web Applications:</h2>
 
 <div align="center">
     <a href="https://carrpred.herokuapp.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/App%20Buttons/car_price_prediction.png" alt="gcp"/> </a>
 </div>
 
-<h3 align="left">Projects:</h3>
+<h2 align="left">Projects:</h2>
 
 <div align="center">
     <a href="https://github.com/athulyesudas/Car-Price-Prediction" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/App%20Buttons/car_price_prediction.png" alt="gcp"/> </a>
