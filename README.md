@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<a target="_blank" href="https://athul.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/decoratives/website_cover2.webp"> </a>
+<a target="_blank" href="https://athul.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/decoratives/website_cover2.webp"> 
 </div>
 
 <div align="center">
