@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-<a href="https://athul.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/decoratives/website_cover2.webp" target="_blank"> </a>
-      </div>
+<a target="_blank" href="https://athul.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/decoratives/website_cover2.webp"> </a>
+</div>
 
 <div align="center">
   <img height="180.5em" src="https://github-readme-stats.vercel.app/api?username=athulyesudas&show_icons=true&hide_border=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
